@@ -15,4 +15,5 @@
 
 ## Блок-схема алгоритма
 
- 
+![блок-схема](https://github.com/LiaNiele/FinalTest/blob/12348ab3be0ab7e4219041473bab498ecefb474a/Diagram.drawio.png "Блок-схема алгоритма")
+
